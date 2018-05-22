@@ -23,3 +23,18 @@ Windows / Qt
 
 用户可以指定关键帧（自定义形状），首先基于上述样条系统进行关键帧曲线优化，然后可选线性插值/矢量线性插值进行形状插值
 
+![main](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Keyframe%20Deformation%20Animation/img/main.png)
+![keyframe](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Keyframe%20Deformation%20Animation/img/keyframe.png)
+![cspline](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Keyframe%20Deformation%20Animation/img/cspline.png)
+![linear](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Keyframe%20Deformation%20Animation/img/linear.png)
+![VectorLinear](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Keyframe%20Deformation%20Animation/img/VectorLinear.png)
+![clockwise](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Keyframe%20Deformation%20Animation/img/clockwise.png)
+
++ __Easy Partical System__
+
+Windows / VS2015 / OpenGL
+
+简易粒子系统实现，可选粒子纹理或颜色实现多种五毛效果
+
+
+
