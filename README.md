@@ -18,3 +18,8 @@ Windows / Qt
 ![motion](https://raw.githubusercontent.com/Insecty/Computer-Animation/master/Cardinal%20Spline%20Curve%20and%20Motion%20Control/img/motion.png)
 
 + __Keyframe Deformation Animation__
+
+Windows / Qt
+
+用户可以指定关键帧（自定义形状），首先基于上述样条系统进行关键帧曲线优化，然后可选线性插值/矢量线性插值进行形状插值
+
