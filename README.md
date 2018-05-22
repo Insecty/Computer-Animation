@@ -36,5 +36,11 @@ Windows / VS2015 / OpenGL
 
 简易粒子系统实现，可选粒子纹理或颜色实现多种五毛效果
 
+![fire](https://github.com/Insecty/Computer-Animation/blob/master/Easy%20Partical%20System%20(opengl)/demo/fires.gif)
+![leaf](https://github.com/Insecty/Computer-Animation/blob/master/Easy%20Partical%20System%20(opengl)/demo/leaf.gif)
+![multi-color-fire](https://github.com/Insecty/Computer-Animation/blob/master/Easy%20Partical%20System%20(opengl)/demo/multi_color_fire.gif)
+![snow](https://github.com/Insecty/Computer-Animation/blob/master/Easy%20Partical%20System%20(opengl)/demo/snow.gif)
+
+
 
 
